@@ -4,9 +4,10 @@
     <title>Ré:重置个人Github Pages</title>
     <url>/2024/08/04/Re-%E9%87%8D%E7%BD%AE%E4%B8%AA%E4%BA%BAGithub-Pages/</url>
     <content><![CDATA[<p>一件好笑的事：我由于重装了系统，把原先的 Hexo 博客文件夹搞炸了。</p>
-<p>这次根据了洛谷中<a href="https://www.luogu.com.cn/article/j7j5m2a3">
-神犇的专栏</a> 重建网站，但 <strong>Netlify</strong>
-侧因为不明原因一直注册不上[○･｀Д´･ ○]<br />
+<p>这次根据了洛谷中<a
+href="https://www.luogu.com.cn/article/j7j5m2a3">ShwStone 神犇的专栏</a>
+重建网站，但 <strong>Netlify</strong> 侧因为不明原因一直注册不上[○･｀Д´･
+○]<br />
 于是就先在Github Pages先构建一个，后面本网站可能会当成镜像站使用。</p>
 <p>感谢 <a href="//hexo.io">Hexo</a>
 的作者做出了这么简单易用的博客系统，感谢 <strong>NeXT</strong>
